@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ASTROSNAP/static/css/main.4b51755f.css",
+    "main.js": "/ASTROSNAP/static/js/main.088bb3af.js",
+    "static/js/453.ed3810f9.chunk.js": "/ASTROSNAP/static/js/453.ed3810f9.chunk.js",
+    "static/media/astronaut.png": "/ASTROSNAP/static/media/astronaut.9565c6fa76756ed8b724.png",
+    "static/media/space.jpg": "/ASTROSNAP/static/media/space.76183d22af78ff37820d.jpg",
+    "static/media/test.jpg": "/ASTROSNAP/static/media/test.d689af23af14b62f9881.jpg",
+    "static/media/logo.png": "/ASTROSNAP/static/media/logo.c280a316f511e3c13fd1.png",
+    "index.html": "/ASTROSNAP/index.html",
+    "main.4b51755f.css.map": "/ASTROSNAP/static/css/main.4b51755f.css.map",
+    "main.088bb3af.js.map": "/ASTROSNAP/static/js/main.088bb3af.js.map",
+    "453.ed3810f9.chunk.js.map": "/ASTROSNAP/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b51755f.css",
+    "static/js/main.088bb3af.js"
+  ]
+}
