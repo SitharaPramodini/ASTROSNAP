@@ -18,9 +18,7 @@ console.log('Generated secret key:', secretKey);
 const app = express();
 app.use(cors(
   {
-    origin: ["https://deploy-mern-1whq.vercel.app"],
-    methods: ["POST","GET"],
-    credentials:true
+    origin: ["https://localhost:3000", "https://mern-task-app.onrender.com"],
   }
 ));
 app.use(express.json())
