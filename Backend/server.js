@@ -16,7 +16,6 @@ console.log('Generated secret key:', secretKey);
 
 
 const app = express();
-const PORT = process.env.PORT || 5000;
 app.use(cors(
   {
     origin: ["https://deploy-mern-1whq.vercel.app"],
@@ -24,6 +23,9 @@ app.use(cors(
     credentials:true
   }
 ));
+app.use(express.json())
+
+const PORT = process.env.PORT || 5000;
 
 // Body parser middleware
 app.use(bodyParser.urlencoded({ extended: false }));
